@@ -7,8 +7,6 @@ Basic music player app using user-uploaded files.
 - Music upload
 - Functional UI (scrolling, etc.)
 
-## In Development/Future Development (in relative order)
-- Direct upload from YouTube using pytube-fix
+## In Development/Future Development
 - Shuffle feature
 - Playlist creation
-- Functional application build
